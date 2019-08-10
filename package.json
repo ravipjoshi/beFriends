@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ravipjoshi/beFriends/issues"
   },
-  "homepage": "https://github.com/ravipjoshi/beFriends#readme"
+  "homepage": "https://github.com/ravipjoshi/beFriends#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
