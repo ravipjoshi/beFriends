@@ -1,7 +1,7 @@
 var friends = 
 [
     {
-    "name":"Ahmed",
+    "name":"Tej",
     "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
     "scores":[
         5,
@@ -17,7 +17,7 @@ var friends =
       ]
     },
     {
-        "name":"Ahmed",
+        "name":"Raj",
         "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
         "scores":[
             5,
@@ -33,7 +33,7 @@ var friends =
           ]
     },
     {
-        "name":"Ahmed",
+        "name":"Jonas",
         "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
         "scores":[
             5,
@@ -49,7 +49,7 @@ var friends =
           ]
     },
     {
-        "name":"Ahmed",
+        "name":"Eric",
         "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
         "scores":[
             5,
